@@ -1,7 +1,7 @@
-/****************************************************************
-The Java instanceof operator is used to 
-test if the object or instance is an instanceof the specified type.
-*****************************************************************/
+/*********************************************************************
+ * The Java instanceof operator is used to 
+ * test if the object or instance is an instanceof the specified type.
+**********************************************************************/
 class Student{}
 class Rockstar{}
 class Hacker{}

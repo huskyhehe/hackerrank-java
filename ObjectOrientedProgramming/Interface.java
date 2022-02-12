@@ -1,7 +1,7 @@
-/**************************************************************
-A Java interface can only contain method signatures and fields. 
-The interface can be used to achieve polymorphism. 
-***************************************************************/
+/*****************************************************************
+ * A Java interface can only contain method signatures and fields. 
+ * The interface can be used to achieve polymorphism. 
+******************************************************************/
 
 interface AdvancedArithmetic{
   int divisor_sum(int n);

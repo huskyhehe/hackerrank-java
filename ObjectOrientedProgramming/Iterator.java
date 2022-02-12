@@ -1,7 +1,7 @@
-/**********************************************
-Java Iterator class can help you to 
-iterate through every element in a collection. 
-**********************************************/
+/*************************************************
+ * Java Iterator class can help you to 
+ * iterate through every element in a collection. 
+**************************************************/
 
 public class Main{
 	
