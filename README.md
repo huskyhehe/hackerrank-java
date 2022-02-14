@@ -5,7 +5,9 @@
 | :----- | :---- | :----- |
 | 1 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Array1D.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DataStructures/Array1D.java) |
 | 2 | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Array2D.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DataStructures/Array2D.java) |
-| 1 | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Subarray.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DataStructures/Subarray.java) |
+| 3 | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Subarray.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DataStructures/Subarray.java) |
+| 4 | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | [ArrayList.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DataStructures/ArrayList.java) |
+
 
 
 
