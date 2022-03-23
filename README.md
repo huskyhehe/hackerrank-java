@@ -21,3 +21,9 @@
 | 6 | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [SuperKeyword.java](https://github.com/huskyhehe/hackerrank-java/blob/main/ObjectOrientedProgramming/SuperKeyword.java) |
 | 7 | [Java instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) | [InstanceofKeyword.java](https://github.com/huskyhehe/hackerrank-java/blob/main/ObjectOrientedProgramming/InstanceofKeyword.java) |
 | 8 | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Iterator.java](https://github.com/huskyhehe/hackerrank-java/blob/main/ObjectOrientedProgramming/Iterator.java) |
+
+
+## Design Pattern
+| No. |  Chanllenges | Solutions |
+| :----- | :---- | :----- |
+| 1 | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Singleton.java](https://github.com/huskyhehe/hackerrank-java/blob/main/DesignPattern/Singleton.java) |
